@@ -2,7 +2,6 @@
   "name": "nasa-api-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "api.nasa.gov",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
